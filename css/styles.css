@@ -413,9 +413,7 @@ img {
 .portfolio-list:hover .portfolio-ice {
   transform: translateY(0%);
 }
-.portfolio-imet-list {
-  display: flex;
-}
+
 .portfolio-div {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
